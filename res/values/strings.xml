@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">My Inventory</string>
+    <string name="sms_enable_explanation">To enable notifications for inventory items that are low in stock, My Inventory requires permissions to use your SMS Application. To Enable notifications, click Enable below and give My Inventory permissions to use the SMS Application. To disable notifications, click disable.</string>
+    <string name="enable">Enable</string>
+    <string name="disable">Disable</string>
+    <string name="stock_notifications">Stock Notifications</string>
+    <string name="log_in">Log In</string>
+    <string name="e_mail">E-Mail</string>
+    <string name="register">Register</string>
+    <string name="password">Password</string>
+
+    <string-array name="inventory_ids">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="inventory_items">
+        <item>Phone</item>
+        <item>Wallet</item>
+        <item>Keys</item>
+        <item>Hat</item>
+        <item>Phone</item>
+        <item>Wallet</item>
+        <item>Keys</item>
+        <item>Hat</item>
+        <item>Phone</item>
+        <item>Wallet</item>
+        <item>Phone</item>
+        <item>Wallet</item>
+        <item>Keys</item>
+        <item>Hat</item>
+        <item>Phone</item>
+        <item>Wallet</item>
+        <item>Keys</item>
+        <item>Hat</item>
+        <item>Phone</item>
+        <item>Wallet</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Smartphone - iPhone</item>
+        <item>Leather Wallet</item>
+        <item>House key, Mailbox Key</item>
+        <item>Ball cap, Blue</item>
+        <item>Smartphone - iPhone</item>
+        <item>Leather Wallet</item>
+        <item>House key, Mailbox Key</item>
+        <item>Ball cap, Blue</item>
+        <item>Smartphone - iPhone</item>
+        <item>Leather Wallet</item>
+        <item>Smartphone - iPhone</item>
+        <item>Leather Wallet</item>
+        <item>House key, Mailbox Key</item>
+        <item>Ball cap, Blue</item>
+        <item>Smartphone - iPhone</item>
+        <item>Leather Wallet</item>
+        <item>House key, Mailbox Key</item>
+        <item>Ball cap, Blue</item>
+        <item>Smartphone - iPhone</item>
+        <item>Leather Wallet</item>
+    </string-array>
+
+    <string-array name="counts">
+        <item>1</item>
+        <item>2</item>
+        <item>5</item>
+        <item>3</item>
+        <item>1</item>
+        <item>2</item>
+        <item>5</item>
+        <item>3</item>
+        <item>1</item>
+        <item>2</item>
+        <item>1</item>
+        <item>2</item>
+        <item>5</item>
+        <item>3</item>
+        <item>1</item>
+        <item>2</item>
+        <item>5</item>
+        <item>3</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>

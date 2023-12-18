@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.bottomnavigation.BottomNavigationView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="55dp"
+    android:background="@color/black">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:gravity="center_horizontal"
+        android:minHeight="50dp"
+        android:orientation="horizontal"
+        android:paddingTop="3dp"
+        android:weightSum="3">
+
+        <ImageButton
+            android:id="@+id/notificationButton"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:background="@drawable/baseline_circle_notifications_24"
+            app:tint="@color/white" />
+
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <ImageButton
+            android:id="@+id/addButton"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:background="@drawable/baseline_add_box_24"
+            android:padding="6dp"
+            android:text="add" />
+
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <ImageButton
+            android:id="@+id/settingsButton"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:background="@drawable/baseline_settings_24"
+            android:padding="6dp"
+            app:tint="@color/white" />
+    </LinearLayout>
+
+</com.google.android.material.bottomnavigation.BottomNavigationView>
